@@ -55,7 +55,7 @@ galaxy_arms:
       - "Phoenix"
       - "Nest"
   - name: "Others"
-    color: "axon_amber"
+    color: "synapse_cyan"
     items:
       - "Docker"
       - "GitHub Actions"
