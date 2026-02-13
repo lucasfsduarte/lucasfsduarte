@@ -414,7 +414,7 @@
     <!-- Inner ring -->
     <circle cx="425" cy="155" r="14" fill="none" stroke="#7c6fb0" stroke-width="0.8" opacity="0.4" class="core-ring-inner"/>
     <!-- Solid core -->
-    <circle cx="425" cy="155" r="11" fill="#12201a" stroke="#1c2b24" stroke-width="0.5"/>
+    <circle cx="425" cy="155" r="11" fill="#0f1a15" stroke="#1c2b24" stroke-width="0.5"/>
     <!-- Bright center dot -->
     <circle cx="425" cy="155" r="3" fill="#1fa89a" filter="url(#core-bright-glow)" opacity="0.9"/>
     <!-- Initial -->
