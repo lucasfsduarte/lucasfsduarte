@@ -93,7 +93,7 @@ galaxy_arms:
 #   text_faint: "#64748b"        # Muted text, labels
 theme:
   void: "#0b1410" # Deep forest black
-  nebula: "#12201a" # Elevated dark green surface
+  nebula: "#0f1a15" # Elevated dark green surface
   star_dust: "#1c2b24" # Borders / separators (mossy green)
 
   synapse_cyan: "#1fa89a" # Green-leaning teal
