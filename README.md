@@ -28,19 +28,21 @@
 
 <br/>
 
-<!-- <details>
+<details>
 <summary><strong>More about me</strong></summary>
 
 <br/>
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
+I understand problems and solve them in the best way possible.
+Specialty coffee enthusiast and fan of high-performance sports (swimming, running and cycling).
 
-**Currently at** Stellar Labs — San Francisco, CA
+Most of my projects are private code.
 
-</details> -->
+**Currently at** Cascavel, PR (working remotely)
 
-<!-- <br/> -->
+</details>
+
+<br/>
 
 <div align="center">
   <a href="mailto:lucasfsduarte@gmail.com">
