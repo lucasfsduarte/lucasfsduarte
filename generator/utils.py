@@ -162,6 +162,7 @@ def calculate_language_percentages(
     Returns:
         list of dicts with keys: name, bytes, percentage, color
     """
+    exclude = exclude or []
     filtered = {k: v for k, v in languages.items() if k not in exclude}
     total = sum(filtered.values())
     if total == 0:
