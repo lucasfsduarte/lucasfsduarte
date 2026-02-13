@@ -91,6 +91,18 @@ galaxy_arms:
 #   text_bright: "#f1f5f9"       # Primary text
 #   text_dim: "#94a3b8"          # Secondary text
 #   text_faint: "#64748b"        # Muted text, labels
+theme:
+  void: "#0b1410" # Deep forest black
+  nebula: "#12201a" # Elevated dark green surface
+  star_dust: "#1c2b24" # Borders / separators (mossy green)
+
+  synapse_cyan: "#1fa89a" # Green-leaning teal
+  dendrite_violet: "#7c6fb0" # Muted violet with slight cool green harmony
+  axon_amber: "#c6a24a" # Earthy amber (less orange, more natural)
+
+  text_bright: "#eef2ef" # Soft neutral white
+  text_dim: "#a7b3ac" # Sage grey
+  text_faint: "#6f8078" # Muted moss grey
 
 # Stats configuration — which metrics to show on the telemetry card
 stats:
