@@ -92,13 +92,13 @@ galaxy_arms:
 #   text_dim: "#94a3b8"          # Secondary text
 #   text_faint: "#64748b"        # Muted text, labels
 theme:
-  void: "#0b1410" # Deep forest black
-  nebula: "#0f1a15" # Elevated dark green surface
-  star_dust: "#1c2b24" # Borders / separators (mossy green)
+  void: "#081408" # Deep forest black
+  nebula: "#08140c" # Elevated dark green surface
+  star_dust: "#21321a" # Borders / separators (mossy green)
 
-  synapse_cyan: "#1fa89a" # Green-leaning teal
-  dendrite_violet: "#7c6fb0" # Muted violet with slight cool green harmony
-  axon_amber: "#c6a24a" # Earthy amber (less orange, more natural)
+  synapse_cyan: "#6ad400" # Green-leaning teal
+  dendrite_violet: "#488c37" # Muted violet with slight cool green harmony
+  axon_amber: "#a2c42f" # Earthy amber (less orange, more natural)
 
   text_bright: "#eef2ef" # Soft neutral white
   text_dim: "#a7b3ac" # Sage grey
