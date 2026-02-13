@@ -28,19 +28,23 @@
 
 <br/>
 
-<details>
-<summary><strong>More about me</strong></summary>
+<h3>More About Me</h3>
 
-<br/>
-
+<p>
 I understand problems and solve them in the best way possible.
-Specialty coffee enthusiast and fan of high-performance sports (swimming, running and cycling).
+</p>
 
+<p>
+Specialty coffee enthusiast ☕️ and fan of high-performance sports 🏃🏻🚴🏼🏊🏼‍♂️.
+</p>
+
+<p>
 Most of my projects are private code.
+</p>
 
-**Currently at** Cascavel, PR (working remotely)
-
-</details>
+<p>
+Currently at Cascavel, PR (working remotely).
+</p>
 
 <br/>
 
