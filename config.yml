@@ -21,6 +21,7 @@ profile:
   bio: |
     I understand problems and solve them in the best way possible.
     Specialty coffee enthusiast and fan of high-performance sports (swimming, running and cycling).
+    Most of my projects are private code.
   philosophy: '"Go one more."'
 
 # Social links displayed at the bottom of the profile
@@ -118,4 +119,8 @@ stats:
 # Language display settings
 languages:
   exclude: # Languages to hide from the telemetry chart
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
   max_display: 8 # Maximum number of languages to show
